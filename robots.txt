@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://www.theatechsolution.com/sitemap.xml
